@@ -32,7 +32,7 @@ export default function LargeTestimonial() {
             <p className="text-2xl font-bold text-gray-900">
               “Simple has simplified my life in more ways than one. From
               managing my sites to{" "}
-              <em className="italic text-gray-500">keeping track of tasks</em>,
+              <em className="italic text-gray-500">Samaleh Arka Zen</em>,
               it's become my go-to tool for everything.”
             </p>
             <div className="text-sm font-medium text-gray-500">
